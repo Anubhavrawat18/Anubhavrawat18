@@ -20,9 +20,9 @@ full-stack dev. js by day, c++ and java when i want a challenge.
 i like quiet code, loud ideas, and bugs that turn out to be typos.
 
 anubhav@github:~$ cat now.txt
-building    web apps with react, next.js, node
+building    web apps with react, next.js, node.js
 practicing  dsa, one stubborn problem at a time
-exploring   system design, firebase, deployment
+exploring   system design, distributed systems
 
 anubhav@github:~$ ls stack/
 c  c++  java  python  typescript  javascript
