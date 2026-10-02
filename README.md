@@ -1,121 +1,58 @@
-<!-- ============================== HEADER ============================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Anubhav%20Rawat&fontSize=62&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Builder&descSize=18&descAlignY=58" width="100%" alt="header" />
+<img src="assets/golem.svg" height="150" alt="pixel stone golem" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="assets/slime.svg" height="60" alt="pixel slime" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=640&lines=Hey+there%2C+I'm+Anubhav+%F0%9F%91%8B;I+turn+coffee+into+code+%E2%98%95;Building+with+React%2C+Next.js+%26+Node.js;Solving+problems+in+C%2B%2B+%26+Java;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Anubhavrawat18&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
-<img src="https://img.shields.io/github/followers/Anubhavrawat18?label=Followers&style=for-the-badge&logo=github&color=2c5364" alt="followers" />
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-```js
-const anubhav = {
-  name: "Anubhav Rawat",
-  role: "Full-Stack Developer",
-  languages: ["C", "C++", "Java", "Python", "TypeScript", "JavaScript"],
-  currentlyLearning: ["System Design", "DSA", "Advanced Next.js"],
-  funFact: "I debug with console.log and I'm not ashamed 😎",
-  lookingFor: "Cool projects & people to build with",
-};
+```
+anubhav@github:~$ ./hello
 ```
 
-- 🔭 Building full-stack web apps with the **MERN + Next.js** ecosystem
-- 🧠 Sharpening problem-solving with **C++ / Java** and data structures
-- 🌱 Exploring cloud, **Firebase** and modern deployment workflows
-- 💬 Ask me about **React, Node.js, MongoDB, Next.js, and DSA**
-- ⚡ Open to collaborations, open source and good conversations
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=c,cpp,java,py,ts,js&theme=dark" alt="languages" />
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" alt="frontend" />
-
-**Backend & Databases**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark" alt="backend" />
-
-**Tools & Platforms**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,netlify,vercel,linux,postman&theme=dark" alt="tools" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=38F2A0&background=00000000&center=true&vCenter=true&width=480&height=30&lines=hi%2C+i'm+anubhav.;i+build+things+for+the+web.;the+golem+guards+the+repo.;the+slime+just+vibes." alt="typing" />
 
 </div>
 
----
+&nbsp;
 
-## 📊 GitHub Stats
+```console
+anubhav@github:~$ cat about.txt
+full-stack dev. js by day, c++ and java when i want a challenge.
+i like quiet code, loud ideas, and bugs that turn out to be typos.
+
+anubhav@github:~$ cat now.txt
+building    web apps with react, next.js, node
+practicing  dsa, one stubborn problem at a time
+exploring   system design, firebase, deployment
+
+anubhav@github:~$ ls stack/
+c  c++  java  python  typescript  javascript
+react  next.js  node  express  mongodb  firebase
+
+anubhav@github:~$ _
+```
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Anubhavrawat18&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117" alt="stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anubhavrawat18&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117" alt="top languages" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,firebase,cpp,java,git&theme=dark" alt="stack" />
 
-<br/>
+&nbsp;
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=Anubhavrawat18&theme=tokyonight&hide_border=true&background=0d1117" alt="streak" />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=Anubhavrawat18&show_icons=true&theme=merko&hide_border=true&include_all_commits=true&count_private=true" alt="stats" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anubhavrawat18&layout=compact&theme=merko&hide_border=true&langs_count=7" alt="languages" />
 
 </div>
 
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anubhavrawat18&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=38bdf8&line=2c5364&point=ffffff" alt="activity graph" width="100%" />
-
-</div>
-
----
-
-## 🏆 Trophies
+```console
+anubhav@github:~$ contact --list
+mail   anubhavrawat444@gmail.com
+x      @_rawatanubhav_
+```
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Anubhavrawat18&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="trophies" />
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://x.com/_rawatanubhav_"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-<a href="mailto:anubhavrawat444@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://github.com/Anubhavrawat18"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-
-<br/><br/>
-
-<img src="https://readme-quotes.vercel.app/api?theme=tokyonight" alt="quote" />
-
-</div>
-
-<!-- ============================== FOOTER ============================== -->
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="footer" />
-
-<a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Anubhavrawat18&icon=0&color=0" alt="visit count" /></a>
+[![mail](https://img.shields.io/badge/mail-0d1117?style=flat-square&logo=gmail&logoColor=38F2A0)](mailto:anubhavrawat444@gmail.com)
+[![x](https://img.shields.io/badge/x-0d1117?style=flat-square&logo=x&logoColor=38F2A0)](https://x.com/_rawatanubhav_)
+[![github](https://img.shields.io/badge/github-0d1117?style=flat-square&logo=github&logoColor=38F2A0)](https://github.com/Anubhavrawat18)
 
 </div>
 
